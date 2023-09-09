@@ -63,6 +63,9 @@
      <td align='center'>
         <img src="https://cdn.imgbin.com/3/21/7/imgbin-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-man-using-computer-DnXzENb62Hrqe4VYQ81iBctCb.jpg">
     </td>
+	 <td align='center'>
+        <img src="https://www.pngmart.com/files/23/Canva-Logo-PNG-File.png" width="">
+    </td>
 </tr>
  
 
