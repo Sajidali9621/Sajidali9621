@@ -36,32 +36,32 @@
     </td>
 
   <td align='center' width="200">
-        <img src="https://www.linkpicture.com/q/tl-b.png"  width="80">
+        <img src="https://w7.pngwing.com/pngs/696/424/png-transparent-logo-css-css3-thumbnail.png"  width="">
     </td>
  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="80">
+        <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/38a9cafe-c53e-47f2-f431-428120462000/public" width="">
     </td>
  <td align='center' width="200">
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="100">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEuytZnw-WdBb6ZjrN_uS8OzZ6QnLVnMvUw&usqp=CAU" width="">
     </td>
  <td align='center' width="200">
-        <img src="https://www.linkpicture.com/q/download_75.jpg">
+        <img src="https://logowik.com/content/uploads/images/tailwind-new-20216879.jpg">
     </td>
  
 </tr>
  
 <tr>
     <td align='center'>
-        <img src="https://www.linkpicture.com/q/download_75.jpg"  width="80">
+        <img src="https://static.javatpoint.com/tutorial/dialogflow/images/dialogflow.png"  width="">
     </td>
     <td align='center'>
-        <img src="https://www.linkpicture.com/q/download_75.jpg" width="80">
+        <img src="https://ph-files.imgix.net/b99ce06d-1ec2-49f5-ad1c-253c8a22b9c3.png?auto=format" width="">
     </td>
  <td align='center'>
-        <img src="https://www.linkpicture.com/q/download_75.jpg" width="80">
+        <img src="https://miro.medium.com/v2/resize:fit:300/0*2E9-J5WPFbVI_d32" width="">
     </td>
      <td align='center'>
-        <img src="https://www.linkpicture.com/q/download_75.jpg">
+        <img src="https://cdn.imgbin.com/3/21/7/imgbin-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-man-using-computer-DnXzENb62Hrqe4VYQ81iBctCb.jpg">
     </td>
 </tr>
  
