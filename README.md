@@ -32,7 +32,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="80">
+        <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="">
     </td>
 
   <td align='center' width="200">
