@@ -32,7 +32,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vonbu&psig=AOvVaw02txrgKxCmeFNTTTHfGaxj&ust=1694372206318000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCKx-PboIEDFQAAAAAdAAAAABAE" width="80">
+        <img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="80">
     </td>
 
   <td align='center' width="200">
